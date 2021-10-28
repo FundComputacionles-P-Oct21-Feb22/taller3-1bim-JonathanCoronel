@@ -1,0 +1,13 @@
+Generar un algoritmo que permita calcular y mostrar el costos de una computadora de escritorio.
+La misma es comprada por partes; CPU, teclado, pantalla, ratón.
+ 
+ALgoritmo
+1.Inicio
+2.Se pregunta el costo de la CPU.
+3.Se pregunta el costo del teclado.
+4.Se pregunta el costo de la pantalla.
+5.Se pregunta el costo del ratón.
+6.Se realiza el proceso de calculo del costo de una computadora de escritorio sumando la cantidad
+gastada en cada una de las partes.
+7.Se presenta el valor total de los gastos de una computadora de escritorio
+8.Fin
